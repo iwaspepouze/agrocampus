@@ -4,4 +4,4 @@
 [![nbcourse](https://github.com/pnavaro/agrocampus//workflows/nbcourse/badge.svg)](https://pnavaro.github.io/agrocampus)
 
 
-Pour les étudiants de l'agrocampus ouest
+Pour les étudiants de l'agrocampus ouest !
